@@ -73,33 +73,33 @@ export const gridItems = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Nexablend Digital revamped our website and took our SEO to the next level. Our online presence has never been stronger. Highly recommend!",
+    name: "Jessica L.",
+    title: "Marketing Director of The Lodge Rehab",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The team at Nexablend Digital exceeded our expectations. From web design to social media management, their expertise is unmatched!",
+    name: "Michael R.",
+    title: "CEO of Tech Innovators Inc",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Nexablend Digital was the best decision we made. Our website looks amazing, and our social media engagement has skyrocketed!",
+    name: "Sarah T.",
+    title: "Founder of 4D Digital",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Nexablend Digital’s attention to detail and commitment to our success is unparalleled. They truly care about helping our business grow.",
+    name: "David M.",
+    title: "Operations Manager at Fresh Start Fitness",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "From the moment we partnered with Nexablend Digital, we saw immediate improvements in our website traffic and customer interaction. They are true professionals!",
+    name: "Willaim N.",
+    title: "Founder of DTL Solutions",
   },
 ];
 

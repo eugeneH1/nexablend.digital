@@ -27,12 +27,7 @@ const Clients = () => {
         </div>
 
         <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
-          <Image
-            src="/nexablend_nobg.png"
-            alt="company"
-            width={631}
-            height={275}
-          />
+          <Image src="/LogoWhite.png" alt="company" width={631} height={275} />
         </div>
       </div>
     </section>
